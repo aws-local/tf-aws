@@ -1,0 +1,5 @@
+terraform.tfstate*
+tf*
+.terraform/
+.terraform.tfstate.lock.info
+lock.json
