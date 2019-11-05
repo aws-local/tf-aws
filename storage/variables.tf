@@ -1,4 +1,2 @@
-variable "project_name" {
-  description = "Project name"
-}
+variable "project_name" { description = "Project name" }
 
